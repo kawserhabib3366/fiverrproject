@@ -1,0 +1,4 @@
+undetected-chromedriver==3.5.5
+colorama==0.4.6
+beautifulsoup4==4.13.4
+selenium==4.27.1
